@@ -1,6 +1,7 @@
 ---
-title: Welcome to Quartz
+created: 2025-11-18
+modified: 2025-11-18
+share: true
 ---
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+these are my public notes. 
